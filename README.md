@@ -11,7 +11,7 @@ Gist About me
 - 🌱 I’m currently learning Big Data
 - 🔬 Always ready to collaborate for Dev Experiments
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking!
-- :start: 3 start coder in CodeChef
+- :star: 3 start coder in CodeChef
 - :trophy: Launched 2 application in Google Play Store
 - :mailbox: Reach out to me at my social media handles: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-AjitKumarSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajit021/)](https://www.linkedin.com/in/ajit021/)
