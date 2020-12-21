@@ -14,9 +14,9 @@ Gist About me
 - :start: 3 start coder in CodeChef
 - :trophy: Launched 2 application in Google Play Store
 - :mailbox: Reach out to me at my social media handles: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-Ajit Kumar Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajit021/)]
-[![Instagram Badge](https://img.shields.io/badge/-@Ajitkr0-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/ajitkr0/)]
-[![Twitter Badge](https://img.shields.io/badge/-@Ajitkr0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ajitkr0)]
+[![Linkedin Badge](https://img.shields.io/badge/-AjitKumarSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajit021/)](https://www.linkedin.com/in/ajit021/)
+[![Instagram Badge](https://img.shields.io/badge/-@Ajitkr0-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/ajitkr0/)](https://www.instagram.com/ajitkr0/)
+[![Twitter Badge](https://img.shields.io/badge/-@Ajitkr0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ajitkr0)](https://twitter.com/Ajitkr0)
 
 
 ###
